@@ -1,26 +1,26 @@
 1
 00:00:08,010 --> 00:00:13,878
-<i>Who were those people</i>
+♪<i>Who were those people</i>♪
 
 2
 00:00:13,878 --> 00:00:19,127
-<i>Who won their love?</i>
+♪<i>Who won their love?</i>♪
 
 3
 00:00:19,127 --> 00:00:24,220
-<i>When obsecrating for rosebuds</i>
+♪<i>When obsecrating for rosebuds</i>♪
 
 4
 00:00:24,220 --> 00:00:30,542
-<i>I was presented with a garland of thorns...</i>
+♪<i>I was presented with a garland of thorns...</i>♪
 
 5
 00:00:30,542 --> 00:00:36,197
-<i>Who were those people</i>
+♪<i>Who were those people</i>♪
 
 6
 00:00:36,197 --> 00:00:40,552
-<i>Who won their love?</i>
+♪<i>Who won their love?</i>♪
 
 7
 00:01:37,790 --> 00:01:39,290
@@ -1159,7 +1159,7 @@ It's time for dinner.
 
 289
 00:19:55,633 --> 00:19:57,257
-Bon app�tit!
+Bon appétit!
 
 290
 00:19:57,257 --> 00:19:59,020
